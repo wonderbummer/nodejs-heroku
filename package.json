@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-heroku",
+  "version": "0.0.0",
+  "description": "This is another implementation of V8 node.js for heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
